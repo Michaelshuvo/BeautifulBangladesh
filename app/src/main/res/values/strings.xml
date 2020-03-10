@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Beautiful Bangladesh</string>
+    <string name="ifNoAccount">If you have no Account Click Sign Up Button</string>
+
+    <string name="b1">Religion and Occasion</string>
+    <string name="b2">National occasion/ holiday</string>
+    <string name="b3">Season</string>
+    <string name="b4">Hospitality</string>
+    <string name="b5">Food</string>
+    <string name="b6">Attire</string>
+    <string name="b7">Historical and Tourist spots </string>
+
+    <!--button at religion-->
+    <string name="b1r">Muslim</string>
+    <string name="b2r">Hindu</string>
+    <string name="b3r">Christian</string>
+    <string name="b4r">Buddhist</string>
+
+
+    <!--text of historicalplace-->
+    <string name="h1">Ahsan Manzil</string>
+    <string name="h2">Cox&quot;s Bazar</string>
+    <string name="h3">Floating Markets</string>
+    <string name="h4">Lalbagh Fort</string>
+    <string name="h5">National Memorial</string>
+    <string name="h6">Paharpur</string>
+    <string name="h7">Ratargul Swamp Forest</string>
+    <string name="h8">Saint Martin</string>
+    <string name="h9">Sajek Valley</string>
+    <string name="h10">Shahid Minar</string>
+    <string name="h11">Srimangal</string>
+    <string name="h12">Sylhet Tea Garden</string>
+    <string name="h13">Tajhat</string>
+    <string name="h14">The Sundarban</string>
+
+    <string-array name="historicalspot">
+        <item>Ahsan Manzil</item>
+        <item>Coxs Bazar</item>
+        <item>Floating Markets</item>
+        <item>Lalbagh Fort</item>
+        <item>National Memorial</item>
+        <item>Paharpur</item>
+        <item>Ratargul Swamp Forest</item>
+        <item>Saint Martin</item>
+        <item>Sajek Valley</item>
+        <item>Shahid Minar</item>
+        <item>Srimangal</item>
+        <item>Sylhet Tea Garden</item>
+        <item>Tajhat</item>
+        <item>The Sundarban</item>
+    </string-array>
+    <string-array name="historicalspotfile">
+        <item>AhsanManzil</item>
+        <item>CoxsBazar</item>
+        <item>FloatingMarkets</item>
+        <item>LalbaghFort</item>
+        <item>NationalMemorialr</item>
+        <item>Paharpur</item>
+        <item>RatargulSwampForest</item>
+        <item>SaintMartin</item>
+        <item>SajekValley</item>
+        <item>ShahidMinar</item>
+        <item>Srimangal</item>
+        <item>SylhetTeaGarden</item>
+        <item>Tajhat</item>
+        <item>TheSundarban</item>
+    </string-array>
+
+
+</resources>

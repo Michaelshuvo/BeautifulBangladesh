@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/religionn" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="170dp"
+        android:paddingLeft="80dp"
+        android:orientation="vertical"
+        android:paddingRight="80dp">
+
+        <Button
+           android:id="@+id/muslim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/b1r" />
+        <Button
+            android:id="@+id/hindu"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/b2r" />
+        <Button
+            android:id="@+id/christian"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/b3r" />
+        <Button
+            android:id="@+id/buddhist"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/b4r" />
+    </LinearLayout>
+
+</LinearLayout>

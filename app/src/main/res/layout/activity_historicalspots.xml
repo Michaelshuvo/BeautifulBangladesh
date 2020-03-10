@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/historical" >
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="170dp"
+        android:paddingLeft="80dp"
+        android:orientation="vertical"
+        android:paddingRight="80dp">
+
+        <Button
+            android:id="@+id/AhsanManzil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h1" />
+        <Button
+            android:id="@+id/CoxsBazar"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h2" />
+        <Button
+            android:id="@+id/Floatingmarkets"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h3" />
+        <Button
+            android:id="@+id/LalbaghFort"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h4" />
+        <Button
+            android:id="@+id/NationalMemorialr"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h5" />
+        <Button
+            android:id="@+id/Paharpur"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h6" />
+        <Button
+            android:id="@+id/RatargulSwampForest"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h7" />
+        <Button
+            android:id="@+id/SaintMartin"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h8" />
+        <Button
+            android:id="@+id/Sajekvalley"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h9" />
+        <Button
+            android:id="@+id/ShahidMinar"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h10" />
+        <Button
+            android:id="@+id/Srimangal"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h11" />
+        <Button
+            android:id="@+id/SylhetTeaGarden"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h12" />
+        <Button
+            android:id="@+id/Tajhat"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h13" />
+        <Button
+            android:id="@+id/TheSundarban"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/texcolor"
+            android:textStyle="bold"
+            android:textSize="@dimen/textsizw"
+            android:background="@drawable/shapeofbuttonforresourse"
+            android:text="@string/h14" />
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>
